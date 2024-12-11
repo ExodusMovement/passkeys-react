@@ -5,7 +5,7 @@ import { createWallet } from '@passkeys/core';
 import { WalletProvider, WalletWidget } from '@passkeys/react';
 
 const wallet = createWallet({
-  appId: '12345678-abcd-efgh-ijkl-mnopqrstuvwx',
+  appId: '3ed47d37-67d4-429b-9f2d-e6082d1cd347',
   providers: {    solana: true  }
 });
 
