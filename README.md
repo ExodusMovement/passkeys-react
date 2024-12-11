@@ -11,7 +11,9 @@ yarn add @passkeys/core @passkeys/react
 ```
 
 ***Generate a random UUID***
+
 Example : 12345678-abcd-efgh-ijkl-mnopqrstuvwx
+
 For production request one here [hello@passkeys.foundation]
 
 Import
