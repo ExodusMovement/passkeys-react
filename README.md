@@ -20,7 +20,7 @@ Import
 
 ```react file=index.tsx
 import { createWallet } from '@passkeys/core';
-import { WalletProvider } from '@passkeys/react';
+import { WalletProvider, WalletWidget } from '@passkeys/react';
 ```
 
 Create wallet
